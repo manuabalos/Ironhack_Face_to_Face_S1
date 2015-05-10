@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.7)
+    ruby-progressbar (1.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  ruby-progressbar

@@ -1,0 +1,6 @@
+#                                 DEVELOPED BY: Manuel Ábalos Serrano                                   #
+# ===================================================================================================== #
+#                   Descripcion: RPG game whose ultimate goal is reach the last room.                   #
+#   Controls: write (N, S , E, W) to move, or 'pick object', 'drop Pbject' to interacting with items.   #
+#   		Also, as this game is awesome you can save your game with 'save game' command.          #
+# ----------------------------------------------------------------------------------------------------- #
